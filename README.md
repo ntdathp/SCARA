@@ -1,6 +1,6 @@
 # SCARA
 ![SCARA Robot](img/robot_move.gif)
-# Scara robot simulation with MATLAB
+# SCARA robot simulation with MATLAB
 ![SCARA Robot](img/full.png)
 # Robot descriptions
 
