@@ -9,4 +9,5 @@
 # Coordinates
 ![SCARA Robot](img/coordinate.png)
 # Result video
-![Full video:](https://www.youtube.com/watch?v=3QvVoOp5M3U&ab_channel=%C4%90%E1%BA%A1tNguy%E1%BB%85n)
+[![SCARA Robot Simulation](https://img.youtube.com/vi/3QvVoOp5M3U/0.jpg)](https://www.youtube.com/watch?v=3QvVoOp5M3U)
+
