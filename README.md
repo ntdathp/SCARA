@@ -2,8 +2,8 @@
 ![SCARA Robot](img/robot_move.gif)
 # SCARA robot simulation with MATLAB
 ![SCARA Robot](img/full.png)
-# Robot descriptions
-
+# Robot description
+![SCARA Robot](img/robot_description.png)
 # Workspace
 ![SCARA Robot](img/workspace.png)
 # Coordinates
