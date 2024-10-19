@@ -1,3 +1,3 @@
 # SCARA
 
-#Scara robot simulated with MATLAB
+# Scara robot simulated with MATLAB
